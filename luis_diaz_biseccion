@@ -1,5 +1,9 @@
 import math
 
+"""
+Nombre y Apellidos: <Luis Diaz>
+Cédula: <V-24766315>
+"""
 def biseccion():
 	x1 = float(raw_input("Valor de x1: "))
 	x2 = float(raw_input("Valor de x2: "))
